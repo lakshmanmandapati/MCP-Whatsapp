@@ -9,6 +9,8 @@ This integration lets you:
 
 It connects directly to your WhatsApp account using the WhatsApp Web Multi-Device API (via [whatsmeow](https://github.com/tulir/whatsmeow)).  
 All messages are stored locally in SQLite. Data is only shared with an LLM (like Claude) when you explicitly use tools that request it.  
+![DF1045C0-1DBC-4188-9A6C-A684BE837DD0_1_201_a](https://github.com/user-attachments/assets/e2158ca3-5968-4e9a-8d11-217144e2e622)
+
 
 ---
 
